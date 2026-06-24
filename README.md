@@ -1,5 +1,7 @@
 # Hi, I'm Adrian 👋
 
+> 中文版: [README-zh.md](README-zh.md)
+
 I build practical AI tooling — workflows and agents designed for repeat runs, review checkpoints, and recovery when context gets messy, not just demos.
 
 ## Public work
