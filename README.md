@@ -1,6 +1,6 @@
 # Hi, I'm Adrian 👋
 
-> 中文版: [README-zh.md](README-zh.md)
+[![English](https://img.shields.io/badge/Lang-English-2b7489?style=flat-square)](README.md)&nbsp;[![中文](https://img.shields.io/badge/语言-简体中文-d54a35?style=flat-square)](README-zh.md)
 
 I build practical AI tooling — workflows and agents designed for repeat runs, review checkpoints, and recovery when context gets messy, not just demos.
 
