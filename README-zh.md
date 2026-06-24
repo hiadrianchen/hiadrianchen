@@ -2,7 +2,7 @@
 
 [![English](https://img.shields.io/badge/Lang-English-2b7489?style=flat-square)](README.md)&nbsp;[![中文](https://img.shields.io/badge/语言-简体中文-d54a35?style=flat-square)](README-zh.md)
 
-我在做一些偏实用的 AI 工具。比起跑一次就结束的 demo，我更关注那些能真正用起来、也能用得长久的东西——可以反复运行，出问题时能够恢复，上下文中断后还能接续。
+我做的是 AI agent 工具——多 Agent 系统、个人 AI 工作流，以及把它们串起来的 context 层。我最在意的是可靠性：让 Agent 产出的结果真正可信、经得起复核。
 
 ## 公开项目
 

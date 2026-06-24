@@ -2,7 +2,7 @@
 
 [![English](https://img.shields.io/badge/Lang-English-2b7489?style=flat-square)](README.md)&nbsp;[![中文](https://img.shields.io/badge/语言-简体中文-d54a35?style=flat-square)](README-zh.md)
 
-I build practical AI tooling — workflows and agents designed for repeat runs, review checkpoints, and recovery when context gets messy, not just demos.
+I build practical AI agent tooling — multi-agent systems, personal AI workflows, and the context layer that ties them together. What I care about most is reliability: getting agents to produce work you can actually trust and verify.
 
 ## Public work
 
